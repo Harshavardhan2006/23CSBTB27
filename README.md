@@ -1,3 +1,3 @@
 # 23CSBTB27-28
-[https://github.com/Harshavardhan2006/23CSBTB27-28/blob/main/Types_of_Lists.ipynb]
-[https://github.com/Harshavardhan2006/23CSBTB27-28/blob/main/Arrays.ipynb]
+1. [https://github.com/Harshavardhan2006/23CSBTB27-28/blob/main/Types_of_Lists.ipynb]
+2. [https://github.com/Harshavardhan2006/23CSBTB27-28/blob/main/Arrays.ipynb]
