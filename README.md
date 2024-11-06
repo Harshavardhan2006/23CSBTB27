@@ -10,3 +10,4 @@
 9. [https://github.com/Harshavardhan2006/23CSBTB27/blob/main/ASS_6.ipynb]
 10. [https://github.com/Harshavardhan2006/23CSBTB27/blob/main/SVM.ipynb]
 11. [https://github.com/Harshavardhan2006/23CSBTB27/blob/main/Decision_Tree.ipynb]
+12. [https://github.com/Harshavardhan2006/23CSBTB27/blob/main/Random_Forest.ipynb]
