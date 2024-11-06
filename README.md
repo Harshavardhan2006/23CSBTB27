@@ -8,3 +8,5 @@
 7. [https://github.com/Harshavardhan2006/23CSBTB27/blob/main/ASS_4.ipynb]
 8. [https://github.com/Harshavardhan2006/23CSBTB27/blob/main/ASS_5.ipynb]
 9. [https://github.com/Harshavardhan2006/23CSBTB27/blob/main/ASS_6.ipynb]
+10. [https://github.com/Harshavardhan2006/23CSBTB27/blob/main/SVM.ipynb]
+11. [https://github.com/Harshavardhan2006/23CSBTB27/blob/main/Decision_Tree.ipynb]
